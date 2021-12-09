@@ -1,2 +1,2 @@
 # Hello
-Мастер сказал сделать
+print("Hi, teammate")
